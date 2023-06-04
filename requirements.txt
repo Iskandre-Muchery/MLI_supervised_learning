@@ -1,5 +1,10 @@
+Paquets python3 nécéssaires pour le projet :
 numpy
 pandas
 sklearn
 matplotlib
 seaborn
+
+Les fichiers .py sont ecrits en python3, et les explications se retrouvents dans les fichiers .pdf, 
+dans chaque dossier correspondant à sa partie respective, avec chaque segment de code repris pour l'explication.
+
